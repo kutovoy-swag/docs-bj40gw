@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-47iaw4.date-me.pro/sitemap.xml
